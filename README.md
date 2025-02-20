@@ -2,6 +2,8 @@
 ### Overview
 The Hospital Efficiency & Patient Insights Dashboard gives an elaborate look at patient appointments, wait times, referral patterns, and satisfaction scores thereby hospitals becoming more efficient. This dashboard assists health officials to easily locate patients, track service trends, and provide a high-quality service while allowing them to make the best use of the equipment. Goals are set according to the required time intervals and location within the facility, and a list of tasks is then created for the personnel to follow.
 
+![dashboard](https://github.com/user-attachments/assets/6cf889d5-c75e-4a2b-a495-8031329507d3)
+
 ### Dashboard Features:
 1. Key Performance Indicators (KPIs):
 	- Average Satisfaction Score: 5.52
