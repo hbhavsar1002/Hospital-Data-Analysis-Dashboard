@@ -1,4 +1,4 @@
-# Hospital-Data-Analysis-Dashboard
+# Hospital Data Analysis Dashboard
 ### Overview
 The Hospital Efficiency & Patient Insights Dashboard gives an elaborate look at patient appointments, wait times, referral patterns, and satisfaction scores thereby hospitals becoming more efficient. This dashboard assists health officials to easily locate patients, track service trends, and provide a high-quality service while allowing them to make the best use of the equipment. Goals are set according to the required time intervals and location within the facility, and a list of tasks is then created for the personnel to follow.
 
